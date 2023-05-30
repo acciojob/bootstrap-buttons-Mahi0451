@@ -1,35 +1,35 @@
 
 /* Your CSS Code here. */
-.btn btn-primary{
+#button-1{
 	background:blue;
 	color:white;
 }
-.btn btn-outline-secondary{
+#button-2{
 	background:white;
 	color:grey;
 }
-.btn btn-success btn-lg{
+#button-3{
 	background:green;
 	color:white;
 	height:30px;
 }
-.btn btn-danger btn-sm{
+#button-4{
 	background:red;
 	color:white;
 }
-.btn btn-warning btn-lg btn-block{
+#button-5{
 	background:yellow;
 	color:black;
 	width:100%;
 }
-.btn btn-info disabled{
+#button-6{
 	background:cyan;
 	color:white;
 }
-.btn btn-light{
+#button-7{
 	background:white;
 	color:black;
 }
-.btn btn-link{
+#button-8{
 	background:white;
 }
